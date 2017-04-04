@@ -1,0 +1,13 @@
+#files
+
+# results
+results
+
+# pycharm file
+.idea
+
+# python file
+*.pyc
+
+#temp file
+*~

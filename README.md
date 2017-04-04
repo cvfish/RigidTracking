@@ -1,4 +1,4 @@
-#Rigid Tracking
+# Rigid Tracking
 
 This is an implementation of 6DoF photometric rigid tracking in python.
 
